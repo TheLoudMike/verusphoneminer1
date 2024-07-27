@@ -1,18 +1,18 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+		"name": "Nicehash",
+        	"url": "stratum+tcp://verushash.auto.nicehash.com:9200",
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+		"name": "Nicehash1",
+        	"url": "stratum+tcp://verushash.auto.nicehash.com:9200",
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://na.luckpool.net:3957",
+		"name": "Nicehash2",
+        	"url": "stratum+tcp://verushash.auto.nicehash.com:9200",
 		"timeout": 150
 	}
 	],
